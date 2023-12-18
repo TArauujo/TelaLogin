@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -26,8 +27,9 @@ body{
 }
 
 .wrapper h1{ /* A palavra Login*/
-    font-size: 36px;
+    font-size: 56px;
     text-align: center;
+    font-family: 'Whisper';
 }
 
 .wrapper .input-box{
